@@ -1,0 +1,5 @@
+{
+  "name": "DCAS - Digital Cash Audit System",
+  "description": "A comprehensive React application for Cash Auditing featuring data ingestion, CAAT (AI-driven substantive testing), ATLAS-compliant KKP workflow, and GRC compliance monitoring.",
+  "requestFramePermissions": []
+}
